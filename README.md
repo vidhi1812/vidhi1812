@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vidhi Goyal</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anvesh8263&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi1812" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi1812&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi1812" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi1812" alt="vidhi1812" /></a> </p>
 
-- 🔭 I’m currently working on **Social Distancing Detection**
+- 🔭 I’m currently working on **Tourice Website**
 
 - 📫 How to reach me **@vidhi.goyal_cs20@gla.ac.in**
 
