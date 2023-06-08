@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Anvesh Mangalam</h1>
+<h1 align="center">Hi 👋, I'm Vidhi Goyal</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anvesh8263&label=Profile%20views&color=0e75b6&style=flat" alt="anvesh8263" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anvesh8263&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi1812" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anvesh8263" alt="anvesh8263" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi1812" alt="vidhi1812" /></a> </p>
 
 - 🔭 I’m currently working on **Social Distancing Detection**
 
-- 📫 How to reach me **@anvesh.mangalam_cs20@gla.ac.in**
+- 📫 How to reach me **@vidhi.goyal_cs20@gla.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anveshmangalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anveshmangalam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/anvesh-mangalam-b99383227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/anvesh-mangalam-b99383227" height="30" width="40" /></a>
 <a href="https://fb.com/https://hi-in.facebook.com/kulshrestha.anvesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://hi-in.facebook.com/kulshrestha.anvesh" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.comanvesh_mangalam30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.comanvesh_mangalam30" height="30" width="40" /></a>
