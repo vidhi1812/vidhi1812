@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi1812" alt="vidhi1812" /></a> </p>
 
-- 🔭 I’m currently working on **Tourice Website**
+- 🔭 I’m currently working on **Video Confrencing Website **
 
 - 📫 How to reach me **@vidhi.goyal_cs20@gla.ac.in**
 
