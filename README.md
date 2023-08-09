@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 - 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
 - 🏫 I'm currently studying Data Structures and Algorithms through Java.
 - 💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
-- 📫 You can reach me @vidhi.goyal_cs20@gla.ac.in or the mail in my Profile.
+- 📫 You can reach me @vidhi.goyal1812@gmail.com or the mail in my Profile.
 
 
 
