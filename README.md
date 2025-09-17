@@ -1,6 +1,6 @@
 Hi 👋 My name is Vidhi Goyal
 ================================
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vidhi1812&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi1812" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi1812&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi1812" /> </p>
 <p align="center" width="100%">
 <p align="right"> <a href="https://github.com/vidhi1812" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
