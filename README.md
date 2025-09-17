@@ -59,7 +59,7 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 <p align="left"><a href="https://www.linkedin.com/in/vidhi-goyal-594ab2208/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.codechef.com/users/vidhi812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="(https://www.codechef.com/users/vidhi1812)" height="30" width="40" /></a> <a href="https://www.hackerrank.com/B_90_vidhi?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/B_90_vidhi?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/Vidhi_goyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="(https://leetcode.com/Vidhi_goyal/)" height="30" width="40" /></a></p>
 
-[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light
 
 ### IDE/Editor (s) In Use:
 <img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
