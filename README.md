@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI/ML Engineer ;Full Stack Developer;Python;Java;Javascript|%20React;Eagerly%20learning%20new%20technologies&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Engineer;Full+Stack+Developer;Python;Java;Javascript|%20React;Eagerly%20learning%20new%20technologies&center=true&width=380&height=45">
 	</a>
 </p>
 
