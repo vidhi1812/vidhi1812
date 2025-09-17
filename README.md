@@ -56,15 +56,10 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 </a>
 
 
-<a href="https://microservices.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/external-microservice-technology-itim2101-flat-itim2101.png" width="36" height="36" alt="Microservices" />
-</a>
 
 
 
-<a href="https://en.wikipedia.org/wiki/System_design" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-system-design-computer-science-flaticons-lineal-color-flat-icons.png" width="36" height="36" alt="System Design" />
-</a>
+
 
 
 
