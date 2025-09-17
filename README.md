@@ -45,6 +45,26 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
 
+<a href="https://mqtt.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/eclipse_mosquitto/eclipse_mosquitto-icon.svg" width="36" height="36" alt="MQTT" />
+</a>
+
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" />
+</a>
+
+
+<a href="https://microservices.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-others-iconmarket/64/000000/external-microservices-big-data-others-iconmarket.png" width="36" height="36" alt="Microservices" />
+</a>
+
+
+<a href="https://en.wikipedia.org/wiki/System_design" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-system-design-computer-science-flaticons-lineal-color-flat-icons.png" width="36" height="36" alt="System Design" />
+</a>
+
+
 
 
 
