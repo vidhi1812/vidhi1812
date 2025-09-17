@@ -16,10 +16,8 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 
 
 - 👋 Hi, I’m Vidhi Goyal
-- 👀 I’m interested in Computers and Sciences.
-- 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
-- 🏫 I'm currently studying about React version~19..
-- 💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
+- 🏫Working as an AI/ML Engineer
+- 💞️Looking for new opportunities
 - 📫 You can reach me @vidhi.goyal1812@gmail.com or the mail in my Profile.
 
 
