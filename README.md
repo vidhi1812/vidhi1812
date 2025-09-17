@@ -46,8 +46,9 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
 
 <a href="https://mqtt.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/eclipse_mosquitto/eclipse_mosquitto-icon.svg" width="36" height="36" alt="MQTT" />
+  <img src="https://cdn.simpleicons.org/eclipsemosquitto/3C5280" width="36" height="36" alt="MQTT" />
 </a>
+
 
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
