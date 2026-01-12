@@ -55,6 +55,8 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)]()
 [![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)]()
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)]()
+[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-6A5ACD?style=flat&logo=openai&logoColor=white)]()
+[![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-FF6F00?style=flat&logo=openai&logoColor=white)]()
 
 #### **Tools**
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
